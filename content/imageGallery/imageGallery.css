@@ -1,0 +1,22 @@
+/* These are the classes that are going to be applied: */
+.column { float: left; }
+.size-1of3 { width: 32%; }
+.middle {margin-left: 2%; margin-right: 2%}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
